@@ -13,7 +13,7 @@ To initialze the plugin -
 $('#passwordInput').revealPassword();
 ```
 ###Developer Blog -
-gitHub -  <a href="http://mnaresh2012.github.io/index.html" target="_blank">mnaresh2012.github.io</a>
+gitHub -  <a href="http://mnaresh2012.github.io/index.html" target="_blank">dsadad</a>
 
 wordpress - [https://mahantanaresh.wordpress.com/](https://mahantanaresh.wordpress.com/)
 
